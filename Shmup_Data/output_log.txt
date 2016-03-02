@@ -1,0 +1,44 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.185173 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 150.
+Total: 0.504320 ms (FindLiveObjects: 0.006257 ms CreateObjectMapping: 0.006257 ms MarkObjects: 0.073102 ms  DeleteObjects: 0.009102 ms)
+
+UnloadTime: 0.185457 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 150.
+Total: 0.512853 ms (FindLiveObjects: 0.005688 ms CreateObjectMapping: 0.006257 ms MarkObjects: 0.073955 ms  DeleteObjects: 0.010524 ms)
+
+UnloadTime: 0.188017 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 543.
+Total: 0.554666 ms (FindLiveObjects: 0.016782 ms CreateObjectMapping: 0.008817 ms MarkObjects: 0.124871 ms  DeleteObjects: 0.007680 ms)
+
+Platform assembly: D:\Users\jxs7205.MAIN\Desktop\Final_Shmup_Materials\Final_2D_Shmup_Unity\Shmup_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.513991 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.597902 ms (FindLiveObjects: 0.006542 ms CreateObjectMapping: 0.007111 ms MarkObjects: 0.094151 ms  DeleteObjects: 0.100693 ms)
+
